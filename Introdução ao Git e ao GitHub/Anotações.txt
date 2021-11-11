@@ -17,5 +17,15 @@ Se você quiser testar as suas configurações, você pode usar o comando git co
 
 $ git config --list
 
+$ git status
+
+$ git add .
+
+$ git status
+
+$ git commit -m "commitando"
+
+$ git push origin main
+
 
 
